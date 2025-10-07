@@ -1,30 +1,31 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#00bfff;">Deepak Kumar</span></h1>
 
 <p align="center">
-  🚀 <em>A Passionate Full-Stack Web Developer & MERN Stack Enthusiast from India</em> 🇮🇳
+  🚀 <em>A Passionate Web Developer & Data Analyst from India</em> 🇮🇳
 </p>
 
 ---
 
 ### 👀 Interests
-- 💻 Web Development (Frontend & Backend)
-- ⚛️ React.js, Node.js, Express.js, MongoDB (MERN Stack)
-- 🎨 UI/UX Design with Tailwind CSS & Material UI
-- 🌐 Building Scalable, Responsive, and Interactive Web Applications
+- 💻 Full-Stack Web Development (MERN Stack)
+- 📊 Data Analytics & Visualization  
+- ⚙️ Exploring the intersection of **Technology & Insights**
+- 🎨 Designing intuitive and responsive user interfaces
 
 ---
 
 ### 🌱 Currently Learning
-- Advanced **React.js** concepts & **Redux Toolkit**
-- **Backend Development** with Express.js & MongoDB
-- **Data Structures & Algorithms (DSA)** using Java
+- ⚛️ **React.js**, **Redux Toolkit**, and **Tailwind CSS**
+- 🌐 **Node.js**, **Express.js**, and **MongoDB**
+- 📈 **Power BI**, **SQL**, **Excel**, and **Python** for Data Analytics
+- 🧠 **Data Visualization** & **Business Intelligence Dashboards**
 
 ---
 
 ### 💞️ Looking to Collaborate On
-- MERN stack projects  
-- Open-source web development initiatives  
-- UI/UX-focused web applications  
+- MERN Stack Projects  
+- Data Analytics Dashboards (Power BI / Excel / Python)  
+- Open-Source Web or Data Projects  
 
 ---
 
@@ -35,15 +36,25 @@
 
 ---
 
+### ⚡ Tech Stack
+#### 💻 Web Development
+`HTML` · `CSS` · `JavaScript` · `React.js` · `Node.js` · `Express.js` · `MongoDB` · `Tailwind CSS`
+
+#### 📊 Data Analytics
+`Excel` · `Power BI` · `SQL` · `Python` (Pandas, NumPy, Matplotlib)
+
+---
+
 ### 😄 Pronouns
 He / Him  
 
 ---
 
 ### ⚡ Fun Fact
-I love turning **complex problems into simple, beautiful, and intuitive solutions.**  
-When I’m not coding, I’m exploring new tech trends or improving my design skills. ✨  
+I enjoy transforming **raw data into powerful insights**  
+and **ideas into real-world web applications**.  
+When I’m not coding or analyzing, I’m exploring new tech tools and learning continuously. ✨  
 
 ---
 
-<h3 align="center">⭐ “Code. Learn. Grow. Repeat.” ⭐</h3>
+<h3 align="center">⭐ “Code. Analyze. Learn. Repeat.” ⭐</h3>
