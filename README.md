@@ -1,31 +1,32 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#00bfff;">Deepak Kumar</span></h1>
 
 <p align="center">
-  🚀 <em>A Passionate Web Developer & Data Analyst from India</em> 🇮🇳
+  🚀 <em>A Passionate Full-Stack Web Developer & Data Enthusiast from India</em> 🇮🇳
 </p>
 
 ---
 
 ### 👀 Interests
-- 💻 Full-Stack Web Development (MERN Stack)
+- 💻 Full-Stack Web Development  
 - 📊 Data Analytics & Visualization  
-- ⚙️ Exploring the intersection of **Technology & Insights**
-- 🎨 Designing intuitive and responsive user interfaces
+- ⚙️ Problem Solving with DSA (Java)  
+- 🎨 UI/UX Design & Responsive Web Interfaces  
 
 ---
 
 ### 🌱 Currently Learning
-- ⚛️ **React.js**, **Redux Toolkit**, and **Tailwind CSS**
-- 🌐 **Node.js**, **Express.js**, and **MongoDB**
-- 📈 **Power BI**, **SQL**, **Excel**, and **Python** for Data Analytics
-- 🧠 **Data Visualization** & **Business Intelligence Dashboards**
+- 🌐 **Web Development:** HTML · CSS · JavaScript · Bootstrap · Tailwind CSS · Next.js · Docker (Basics)  
+- ⚛️ **Backend & Databases:** Node.js · Express.js · MongoDB  
+- 🧠 **DSA & Programming:** Java (Basics)  
+- 📊 **Data Analytics:** Excel · Power BI · SQL · Python  
 
 ---
 
 ### 💞️ Looking to Collaborate On
 - MERN Stack Projects  
-- Data Analytics Dashboards (Power BI / Excel / Python)  
-- Open-Source Web or Data Projects  
+- Web UI/UX & Responsive Design Projects  
+- Data Analytics & Visualization Projects  
+- Learning & Open-Source DSA Implementations  
 
 ---
 
@@ -37,11 +38,15 @@
 ---
 
 ### ⚡ Tech Stack
+
 #### 💻 Web Development
-`HTML` · `CSS` · `JavaScript` · `React.js` · `Node.js` · `Express.js` · `MongoDB` · `Tailwind CSS`
+`HTML` · `CSS` · `JavaScript` · `Bootstrap` · `Tailwind CSS` · `Next.js` · `Node.js` · `Express.js` · `MongoDB` · `Docker (Basics)`
 
 #### 📊 Data Analytics
-`Excel` · `Power BI` · `SQL` · `Python` (Pandas, NumPy, Matplotlib)
+`Excel` · `Power BI` · `SQL` · `Python`  
+
+#### 🧠 Programming & DSA
+`Java (Basics)` · `DSA Fundamentals`  
 
 ---
 
@@ -51,9 +56,9 @@ He / Him
 ---
 
 ### ⚡ Fun Fact
-I enjoy transforming **raw data into powerful insights**  
-and **ideas into real-world web applications**.  
-When I’m not coding or analyzing, I’m exploring new tech tools and learning continuously. ✨  
+I love turning **ideas into real-world web applications**  
+and **raw data into meaningful insights**.  
+Constantly learning, improving, and experimenting with new tech. ✨  
 
 ---
 
